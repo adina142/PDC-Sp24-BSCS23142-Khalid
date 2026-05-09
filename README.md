@@ -64,7 +64,7 @@ PDC-Sp24-BSCS23142-Khalid/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PDC-Sp24-BSCS23142-Khalid.git
+git clone https://github.com/adina142/PDC-Sp24-BSCS23142-Khalid.git
 cd PDC-Sp24-BSCS23142-Khalid
 ```
 
